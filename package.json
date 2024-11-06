@@ -1,0 +1,15 @@
+{
+  "name": "cse-inv-activity-1",
+  "version": "1.0.0",
+  "description": "CSE 341 Assignment - Individual Activity: Develop an API for an Existing Frontend",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heathergibb/cse341-week1-activity.git"
+  },
+  "author": "Heather Gibb",
+  "license": "ISC"
+}
