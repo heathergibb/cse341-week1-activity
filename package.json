@@ -4,12 +4,25 @@
   "description": "CSE 341 Assignment - Individual Activity: Develop an API for an Existing Frontend",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heathergibb/cse341-week1-activity.git"
+    "url": "git+https://github.com/heathergibb/cse341-week1-activity.git"
   },
   "author": "Heather Gibb",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/heathergibb/cse341-week1-activity/issues"
+  },
+  "homepage": "https://github.com/heathergibb/cse341-week1-activity#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
